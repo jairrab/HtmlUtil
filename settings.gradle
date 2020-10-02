@@ -1,0 +1,2 @@
+include ':htmlutils'
+rootProject.name = "HtmlUtils"
