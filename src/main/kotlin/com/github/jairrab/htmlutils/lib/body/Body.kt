@@ -1,7 +1,7 @@
-package com.github.jairrab.htmlutils.htmlutil.body
+package com.github.jairrab.htmlutils.lib.body
 
 import com.github.jairrab.htmlutils.HTML
-import com.github.jairrab.htmlutils.htmlutil.body.params.Element
+import com.github.jairrab.htmlutils.lib.body.params.Element
 
 data class Body(
     private val elements: List<Element>

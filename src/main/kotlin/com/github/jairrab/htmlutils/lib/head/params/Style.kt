@@ -1,4 +1,4 @@
-package com.github.jairrab.htmlutils.htmlutil.head.params
+package com.github.jairrab.htmlutils.lib.head.params
 
 class Style(
     private val id: String,

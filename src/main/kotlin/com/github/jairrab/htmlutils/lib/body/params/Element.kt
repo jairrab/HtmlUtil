@@ -1,4 +1,4 @@
-package com.github.jairrab.htmlutils.htmlutil.body.params
+package com.github.jairrab.htmlutils.lib.body.params
 
 import com.github.jairrab.htmlutils.HTML
 

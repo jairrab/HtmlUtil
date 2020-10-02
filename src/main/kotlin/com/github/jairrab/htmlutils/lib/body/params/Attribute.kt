@@ -1,4 +1,4 @@
-package com.github.jairrab.htmlutils.htmlutil.body.params
+package com.github.jairrab.htmlutils.lib.body.params
 
 data class Attribute(
     private val attribute: String,

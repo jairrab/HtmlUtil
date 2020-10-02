@@ -1,4 +1,4 @@
-package com.github.jairrab.htmlutils.htmlutil.head.params
+package com.github.jairrab.htmlutils.lib.head.params
 
 object Properties {
     fun fontArial() = Property("font-family", "arial, sans-serif")

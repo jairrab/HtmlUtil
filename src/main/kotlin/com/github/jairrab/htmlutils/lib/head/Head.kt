@@ -1,7 +1,7 @@
-package com.github.jairrab.htmlutils.htmlutil.head
+package com.github.jairrab.htmlutils.lib.head
 
 import com.github.jairrab.htmlutils.HTML.Companion.NEW_LINE
-import com.github.jairrab.htmlutils.htmlutil.head.params.Style
+import com.github.jairrab.htmlutils.lib.head.params.Style
 
 data class Head(
     val title: String,

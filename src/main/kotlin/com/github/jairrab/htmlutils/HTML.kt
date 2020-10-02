@@ -1,7 +1,7 @@
 package com.github.jairrab.htmlutils
 
-import com.github.jairrab.htmlutils.htmlutil.body.Body
-import com.github.jairrab.htmlutils.htmlutil.head.Head
+import com.github.jairrab.htmlutils.lib.body.Body
+import com.github.jairrab.htmlutils.lib.head.Head
 
 class HTML(
     private val head: Head,
