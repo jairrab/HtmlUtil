@@ -10,7 +10,7 @@ data class Property(private val property: String, private val value: String) {
         fun background(color: String) = Property("background-color", color)
         fun bold() = Property("font-weight", "bold")
         fun borderCollapse() = Property("border-collapse", "collapse")
-        fun borderColor() = Property("border", "1px solid #dddddd")
+        fun borderColor(color: String) = Property("border", "1px solid $color")
         fun fontSize(value: Int) = Property("font-size", "${value}px")
         fun italic() = Property("font-style", "italic")
         fun padding(value: Int) = Property("padding", "${value}px")
